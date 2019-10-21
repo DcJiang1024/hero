@@ -1,4 +1,6 @@
 print("aaaa")
 
+v={}
+
 
 
